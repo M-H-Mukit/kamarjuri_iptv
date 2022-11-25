@@ -169,8 +169,8 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", GAZI TV
-ttp://10.1.1.3/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", GAZI TV
+http://10.1.1.3/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="http://10.1.1.3/img/18.png" group-title="Sports", SPORTS 18
 http://10.1.1.3/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://10.1.1.3/img/tsports.jpg" group-title="Sports", T SPORTS
