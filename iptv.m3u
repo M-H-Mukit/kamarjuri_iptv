@@ -168,8 +168,12 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 
 
 
-#EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", Toffee
+#EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", Toffee 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", Toffee 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", T SPORTS HD
+http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.1.1.3/img/gtv.jpg" group-title="Sports", GAZI TV
 http://10.1.1.3/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="http://10.1.1.3/img/18.png" group-title="Sports", SPORTS 18
